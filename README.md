@@ -19,7 +19,7 @@ I am a Flutter Mobile Application Developer.
 
 - 💡 Ability to create clear and concise documentation for code, APIs, and technical processes.
 
-- 👨‍🦱 Ability to create visually appealing and user-friendly interfaces.
+- 👨‍🦱 Basic understanding of UI/UX design principles to create user-friendly interfaces.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue)](https://www.linkedin.com/in/shazin-muhammed-5a6298268/)
 ---
