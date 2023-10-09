@@ -14,10 +14,6 @@ I am a Flutter Mobile Application Developer.
 
 - :computer: Loves to code and solve problems on competitive coding platforms.
 
-- :headphones: Music is my best friend.
-
-- :video_game: I like to play games.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue)](https://www.linkedin.com/in/shazin-muhammed-5a6298268/)
 ---
 
