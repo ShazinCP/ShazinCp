@@ -14,6 +14,8 @@ I am a Flutter Mobile Application Developer.
 
 - :computer: Loves to code and solve problems on competitive coding platforms.
 
+- 👬: Ability to work effectively in a team, collaborating with designers, developers, and other stakeholders.
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue)](https://www.linkedin.com/in/shazin-muhammed-5a6298268/)
 ---
 
